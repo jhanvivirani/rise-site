@@ -550,3 +550,15 @@ a {
 .probootstrap-animate {
   opacity: 0;
   visibility: hidden; }
+
+/* Customs */ 
+#timeaddr {
+  background-color: #003a6980;
+  width: 50%;
+}
+
+@media only screen and (max-width: 666px) {
+  #timeaddr {
+    width: 100%;
+  }
+}
